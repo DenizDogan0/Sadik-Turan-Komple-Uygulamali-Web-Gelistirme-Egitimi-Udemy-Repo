@@ -1,0 +1,7 @@
+<meta name="description" content="Bu kısma sayfamızla alakalı bir özet bilgi gireriz."> : Bu meta etiketi sayamızı tanıtan bir etikettir.
+
+Seo hedaing etiketleri araştır.
+
+../images/resim.img : bir üst dizindeki resime ulaşmamızı sağlar.
+
+<a href="https://google.com" target="_self">Google git</a> : targetta; _blank:yeni sayfada açar. _self: aynı sayfada açar.

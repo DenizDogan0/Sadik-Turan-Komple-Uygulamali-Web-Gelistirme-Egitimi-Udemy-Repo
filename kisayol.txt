@@ -1,0 +1,7 @@
+SHİFT + ALT + YÖN TUŞU : Bulunduğun satırdaki yazıyı yön tuşu ile belirlediğin yere çoğaltır.
+
+SHİFT + ALT + F : Tüm kodaları düzeltir
+
+CTRL + ALT + YÖN TUŞU : açık olan kod sayfasını bir yan tarafa alarak tek sayfada 2 adet farklı kod sayfası görüntülenir.
+
+CTRL + K + C : Seçilen kısmı yorum satırı yapar.
