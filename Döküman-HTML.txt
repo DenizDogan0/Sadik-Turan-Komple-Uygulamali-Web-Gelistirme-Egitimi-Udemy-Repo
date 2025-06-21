@@ -53,3 +53,6 @@ Seo hedaing etiketleri araştır.
 
 colspan : satırları birleştirir.
 rowspan : stunleri birleştirir.
+
+
+ cellpadding="5" cellspacing="5"
