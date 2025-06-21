@@ -49,3 +49,7 @@ Seo hedaing etiketleri araştır.
 *<section>
 *<summary>
 *<time>
+
+
+colspan : satırları birleştirir.
+rowspan : stunleri birleştirir.
