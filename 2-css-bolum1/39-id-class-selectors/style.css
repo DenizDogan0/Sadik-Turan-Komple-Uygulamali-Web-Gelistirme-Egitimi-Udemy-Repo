@@ -1,0 +1,19 @@
+section{
+    background-color: #2e4c6d ;
+}
+.f20{
+    font-size: 20px;
+}
+
+#page-title{
+    color: #fff;
+    border-bottom: 2px solid red;
+}
+#page-subtitle{
+    font-size: 18px;
+    border-bottom: 2px solid yellow;
+}
+
+.text-red{
+    color: red;
+}

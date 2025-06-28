@@ -1,0 +1,18 @@
+ section {
+        background-color: #2e4c6d;
+        color: white;
+      }
+
+      h1 {
+        color: white;
+      }
+      h2 {
+        color: #fc997c;
+      }
+      ul{
+        list-style-type: none;
+      }
+      a{
+        text-decoration: none;
+        color: #396eb0;
+      }

@@ -1,0 +1,10 @@
+css dosyalarımızı güncellediğimiz zaman. Bazen sayfada çıkmayabilir. Bunun 
+sebebi ise tarayıclar html harici dosyaları daha hızlı sayfa yüklemek için 
+önbelleğine kaydeder bu yüzden güncellemeniz görünmeyebilir. Çözümü ise geliştirici
+araçları açık iken yenileme ye basılı tutup oradan ön belleği temizle ve yeniden yükle
+seçeneğini seçmektir.
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+class(.) : birden fazla kısımda isim vermek istediğimiz zaman bu selectorsu kullanabiliriz.
+id(#) : tek özel bir adet bölümde isim vermek istediğimiz zaman bu selectorsu kullanabiliriz.

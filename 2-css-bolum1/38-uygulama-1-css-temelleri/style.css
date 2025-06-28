@@ -1,0 +1,28 @@
+body{
+    font-size: 25px;
+}
+header {
+  text-align: center;
+  font-size: 16px;
+}
+#gorev-listesi {
+  display: inline-block;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#liste {
+  list-style-type: none;
+}
+
+#g1,
+#g2,
+#g3 {
+  background-color: #ebe645;
+  text-decoration: line-through;
+}
+#g4,
+#g5 {
+  background-color: #344cb7;
+}
