@@ -26,15 +26,33 @@ body{
 }
 
 -------------------------------------------------------------------------------------------------------------------------------------
+ id her zaman tag isimlerine göre daha önceliklidir. Bir sayfa da id ye değer verdiğimiz zaman ve eğer ki aynı tag da farklı bir değer var ise
+ o zaman id de yazan css özelliği geçerli olur.
+ 
+ Aynı durum class ve id dede geçerlidir. Eğer ki aynı elemente hem id ile hem de class ile farklı değerler verirseniz o zaman id'de yazan değer daha 
+ baskın gelir ve class ı ezer.
 
+ inline olarak yazılan css ise tüm hepsini ezer.
 
-
-
-
-
+Öncelik Sıralaması:
+1-İnline css
+2- id selector
+3- class selector
+4- tag selector 
+5- browser defaults
 
 -------------------------------------------------------------------------------------------------------------------------------------
+p{
+    color: red;
+    border: 1px solid green;
+}
+em{
+    border:inherit;
+    color:initial;
+}
 
+--İnherit en yakındaki özelliğin aynısını yazılan etikette de kullanılmasını sağlar.
+--initial: bir üst kapsamdan dolay alınan değerin alınmamasını sağlar. Veya en yakınki özelliği almamasını sağlar.
 
 
 
